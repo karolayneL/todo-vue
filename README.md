@@ -52,5 +52,3 @@ open index.html  # or just double-click it!
 ```
 
 **That's it!** No build tools, no complex setup - just Vue CDN and vanilla JS.
-
----
